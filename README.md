@@ -1,14 +1,14 @@
-# Mango Varieties Classification using Random Forest Classifier
+# Mango Varieties Classification using Random Forest Classifier 🍋
 
 This project is focused on classifying different varieties of mangoes based on their images using a Random Forest Classifier. The dataset contains images of various mango varieties, which will be used to train a machine learning model that can predict the variety of a mango given its image.
 
-## Table of Contents
+## Table of Contents 📑
 
-1. [Dataset](#dataset)
-2. [Objective](#objective)
-3. [Requirements](#requirements)
+1. [Dataset](#dataset) 📂
+2. [Objective](#objective) 🎯
+3. [Requirements](#requirements) 🛠️
 
-## Dataset
+## Dataset 📂
 
 The dataset used in this project can be accessed via Kaggle:
 
@@ -16,7 +16,7 @@ The dataset used in this project can be accessed via Kaggle:
 
 The dataset includes images for several mango varieties, which will be used for training the model.
 
-## Objective
+## Objective 🎯
 
 The primary goal is to build a Random Forest Classifier model that can:
 
@@ -24,7 +24,7 @@ The primary goal is to build a Random Forest Classifier model that can:
 - Perform image preprocessing, including resizing and normalization.
 - Improve model performance through hyperparameter tuning using RandomizedSearchCV.
 
-## Requirements
+## Requirements 🛠️
 
 To run the code and replicate the results, you will need the following Python libraries:
 
