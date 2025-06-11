@@ -4,9 +4,9 @@ This project is focused on classifying different varieties of mangoes based on t
 
 ## Table of Contents 📑
 
-1. [Dataset](#dataset) 📂
-2. [Objective](#objective) 🎯
-3. [Requirements](#requirements) 🛠️
+1. [Dataset](#Dataset) 📂
+2. [Objective](#Objective) 🎯
+3. [Requirements](#Requirements) 🛠️
 
 ## Dataset 📂
 
