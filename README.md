@@ -81,6 +81,8 @@ venv\\Scripts\\activate
 3. Install dependencies (common packages used in the notebook):
 
 ```
+pip install -r requirements.txt
+# or:
 pip install numpy pandas scikit-learn matplotlib seaborn pillow joblib jupyter
 ```
 
@@ -146,10 +148,3 @@ How to contribute:
 This project is open for learning and reuse. Add an explicit license file (e.g., MIT) if you want to allow others to use or modify the project freely.
 
 ---
-
-If you want, I can also:
-- Add a `requirements.txt` and push it
-- Add a small example CSV or sample images to `data/` and update the notebook
-- Create a Google Colab link (one-click open)
-
-Tell me which of those you'd like and I'll add them to the repo.
