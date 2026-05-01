@@ -142,9 +142,3 @@ How to contribute:
 3. Commit your changes and open a Pull Request
 
 ---
-
-## License
-
-This project is open for learning and reuse. Add an explicit license file (e.g., MIT) if you want to allow others to use or modify the project freely.
-
----
